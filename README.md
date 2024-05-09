@@ -5,10 +5,6 @@ A Text Editor made in Python using Tkinter library.
 ## Requirements
 Python 3.9.6 or higher
 
-## Clone this repository
-```
-https://github.com/Param302/Text-Editor.git
-```
 ## Contribution
 Please feel free to contribute!
 Things which are left:
